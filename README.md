@@ -2,7 +2,7 @@
 ===================
 
 ## The effect
-![Screenshot](https://github.com/kk-java/ParallaxViewpager/raw/master/screenshot.png)
+![Screenshot](https://github.com/kk-java/ParallaxViewpager/raw/master/screenshot.gif)
 
 
 ## Other
